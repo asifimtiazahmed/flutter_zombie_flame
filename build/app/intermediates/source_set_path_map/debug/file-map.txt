@@ -1,0 +1,12 @@
+ca.iamasif.zombies.app-jetified-window-1.0.0-beta04-0 /Users/asifimtiazahmed/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+ca.iamasif.zombies.app-jetified-annotation-experimental-1.1.0-1 /Users/asifimtiazahmed/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+ca.iamasif.zombies.app-core-1.6.0-2 /Users/asifimtiazahmed/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+ca.iamasif.zombies.app-jetified-window-java-1.0.0-beta04-3 /Users/asifimtiazahmed/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+ca.iamasif.zombies.app-debug-4 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/android/app/src/debug/res
+ca.iamasif.zombies.app-main-5 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/android/app/src/main/res
+ca.iamasif.zombies.app-pngs-6 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/generated/res/pngs/debug
+ca.iamasif.zombies.app-resValues-7 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/generated/res/resValues/debug
+ca.iamasif.zombies.app-rs-8 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/generated/res/rs/debug
+ca.iamasif.zombies.app-mergeDebugResources-9 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ca.iamasif.zombies.app-mergeDebugResources-10 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ca.iamasif.zombies.app-merged_res-11 /Users/asifimtiazahmed/AndroidStudioProjects/zombies/build/app/intermediates/merged_res/debug

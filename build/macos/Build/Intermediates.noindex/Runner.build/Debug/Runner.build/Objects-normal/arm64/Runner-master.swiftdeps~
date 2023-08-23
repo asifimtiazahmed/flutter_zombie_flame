@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "1a07db327df1e3d938d73667e6b9bc25aa1e5097b6c64d2c8b27bb07ef881bfb"
+build_start_time: [1692752831, 702673000]
+build_end_time: [1692752831, 754861000]
+inputs:
+  "/Users/asifimtiazahmed/AndroidStudioProjects/zombies/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1692752814, 919996007]
+  "/Users/asifimtiazahmed/AndroidStudioProjects/zombies/macos/Runner/AppDelegate.swift": !private [1632799273, 856951880]
+  "/Users/asifimtiazahmed/AndroidStudioProjects/zombies/macos/Runner/MainFlutterWindow.swift": !private [1684343684, 369065328]

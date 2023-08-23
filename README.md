@@ -1,8 +1,14 @@
 # zombies
 
-A new Flutter project.
+A Flutter based game with Flame engine based on Zombies as a floow tutorial.
 
 ## Getting Started
+
+## Adding Assets
+After addind any new assets be sure to have the path in the pubspec.yaml file and then run 
+```
+flutter packages pub run build_runner build
+```
 
 This project is a starting point for a Flutter application.
 
